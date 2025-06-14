@@ -1,0 +1,8 @@
+1. Install: https://www.anaconda.com/docs/getting-started/anaconda/install#windows-installation
+2. To activate the env:
+    conda activate llm
+3. Deactivate the env:
+    conda deactivate
+
+4. To open Anaconda: Select Anaconda PowerShell Prompt: Find all packages from xml file to install
+    conda env create --f .\environment.yml
