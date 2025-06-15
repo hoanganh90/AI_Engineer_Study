@@ -12,6 +12,7 @@ torch
 transformers
 tqdm
 openai
+google-genai
 gradio
 langchain
 tiktoken
