@@ -1,4 +1,4 @@
 .env
 ./week5/vector_db/
 *.bin
-./week6/__pycache__/
+__pycache__/
