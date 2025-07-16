@@ -2,3 +2,4 @@
 ./week5/vector_db/
 *.bin
 __pycache__/
+*.pyc
