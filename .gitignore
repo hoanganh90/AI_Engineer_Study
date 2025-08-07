@@ -3,6 +3,5 @@
 *.bin
 __pycache__/
 *.pyc
-week6/test.pkl
-week6/train.pkl
+week6/*.pkl
 week6/__pycache__/*
